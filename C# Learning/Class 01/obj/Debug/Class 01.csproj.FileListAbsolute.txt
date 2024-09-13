@@ -1,0 +1,7 @@
+D:\Aptech\Aptech-sem-03\C# Learning\Class 01\bin\Debug\Class 01.exe.config
+D:\Aptech\Aptech-sem-03\C# Learning\Class 01\bin\Debug\Class 01.exe
+D:\Aptech\Aptech-sem-03\C# Learning\Class 01\bin\Debug\Class 01.pdb
+D:\Aptech\Aptech-sem-03\C# Learning\Class 01\obj\Debug\Class 01.csproj.AssemblyReference.cache
+D:\Aptech\Aptech-sem-03\C# Learning\Class 01\obj\Debug\Class 01.csproj.CoreCompileInputs.cache
+D:\Aptech\Aptech-sem-03\C# Learning\Class 01\obj\Debug\Class 01.exe
+D:\Aptech\Aptech-sem-03\C# Learning\Class 01\obj\Debug\Class 01.pdb
