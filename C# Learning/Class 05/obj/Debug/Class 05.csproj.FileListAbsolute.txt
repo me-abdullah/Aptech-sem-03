@@ -1,0 +1,10 @@
+D:\Aptech\Aptech-sem-03\C# Learning\Class 05\bin\Debug\Class 05.exe.config
+D:\Aptech\Aptech-sem-03\C# Learning\Class 05\bin\Debug\Class 05.exe
+D:\Aptech\Aptech-sem-03\C# Learning\Class 05\bin\Debug\Class 05.pdb
+D:\Aptech\Aptech-sem-03\C# Learning\Class 05\obj\Debug\Class 05.csproj.AssemblyReference.cache
+D:\Aptech\Aptech-sem-03\C# Learning\Class 05\obj\Debug\Class_05.Form1.resources
+D:\Aptech\Aptech-sem-03\C# Learning\Class 05\obj\Debug\Class_05.Properties.Resources.resources
+D:\Aptech\Aptech-sem-03\C# Learning\Class 05\obj\Debug\Class 05.csproj.GenerateResource.cache
+D:\Aptech\Aptech-sem-03\C# Learning\Class 05\obj\Debug\Class 05.csproj.CoreCompileInputs.cache
+D:\Aptech\Aptech-sem-03\C# Learning\Class 05\obj\Debug\Class 05.exe
+D:\Aptech\Aptech-sem-03\C# Learning\Class 05\obj\Debug\Class 05.pdb
