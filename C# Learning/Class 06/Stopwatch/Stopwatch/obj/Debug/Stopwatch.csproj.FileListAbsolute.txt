@@ -1,0 +1,20 @@
+C:\Users\Student\Desktop\C# Class 08\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+C:\Users\Student\Desktop\C# Class 08\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+C:\Users\Student\Desktop\C# Class 08\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\Users\Student\Desktop\C# Class 08\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\C# Class 08\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Form1.resources
+C:\Users\Student\Desktop\C# Class 08\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+C:\Users\Student\Desktop\C# Class 08\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\C# Class 08\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\C# Class 08\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+C:\Users\Student\Desktop\C# Class 08\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb
+C:\Users\Abdullah\Downloads\C# Class 08\C# Class 08\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+C:\Users\Abdullah\Downloads\C# Class 08\C# Class 08\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+C:\Users\Abdullah\Downloads\C# Class 08\C# Class 08\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\Users\Abdullah\Downloads\C# Class 08\C# Class 08\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Downloads\C# Class 08\C# Class 08\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Form1.resources
+C:\Users\Abdullah\Downloads\C# Class 08\C# Class 08\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+C:\Users\Abdullah\Downloads\C# Class 08\C# Class 08\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.cache
+C:\Users\Abdullah\Downloads\C# Class 08\C# Class 08\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Downloads\C# Class 08\C# Class 08\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+C:\Users\Abdullah\Downloads\C# Class 08\C# Class 08\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb

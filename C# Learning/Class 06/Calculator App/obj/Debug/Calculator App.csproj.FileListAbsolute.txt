@@ -1,0 +1,10 @@
+D:\Aptech\Aptech-sem-03\C# Learning\Calculator App\bin\Debug\Calculator App.exe.config
+D:\Aptech\Aptech-sem-03\C# Learning\Calculator App\bin\Debug\Calculator App.exe
+D:\Aptech\Aptech-sem-03\C# Learning\Calculator App\bin\Debug\Calculator App.pdb
+D:\Aptech\Aptech-sem-03\C# Learning\Calculator App\obj\Debug\Calculator App.csproj.AssemblyReference.cache
+D:\Aptech\Aptech-sem-03\C# Learning\Calculator App\obj\Debug\Calculator_App.Form1.resources
+D:\Aptech\Aptech-sem-03\C# Learning\Calculator App\obj\Debug\Calculator_App.Properties.Resources.resources
+D:\Aptech\Aptech-sem-03\C# Learning\Calculator App\obj\Debug\Calculator App.csproj.GenerateResource.cache
+D:\Aptech\Aptech-sem-03\C# Learning\Calculator App\obj\Debug\Calculator App.csproj.CoreCompileInputs.cache
+D:\Aptech\Aptech-sem-03\C# Learning\Calculator App\obj\Debug\Calculator App.exe
+D:\Aptech\Aptech-sem-03\C# Learning\Calculator App\obj\Debug\Calculator App.pdb
