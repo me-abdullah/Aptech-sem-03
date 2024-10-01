@@ -1,0 +1,11 @@
+C:\Users\Abdullah\Desktop\Image\bin\Debug\Image.exe.config
+C:\Users\Abdullah\Desktop\Image\bin\Debug\Image.exe
+C:\Users\Abdullah\Desktop\Image\bin\Debug\Image.pdb
+C:\Users\Abdullah\Desktop\Image\obj\Debug\Image.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\Image\obj\Debug\Image.Form1.resources
+C:\Users\Abdullah\Desktop\Image\obj\Debug\Image.Properties.Resources.resources
+C:\Users\Abdullah\Desktop\Image\obj\Debug\Image.csproj.GenerateResource.cache
+C:\Users\Abdullah\Desktop\Image\obj\Debug\Image.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\Image\obj\Debug\Image.exe
+C:\Users\Abdullah\Desktop\Image\obj\Debug\Image.pdb
+C:\Users\Abdullah\Desktop\Image\obj\Debug\Image.SplashScreen.resources
