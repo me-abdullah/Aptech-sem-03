@@ -19,3 +19,14 @@ C:\Users\Student\Desktop\Aptech-sem-03\C# Learning\Class 05\obj\Debug\Class 05.c
 C:\Users\Student\Desktop\Aptech-sem-03\C# Learning\Class 05\obj\Debug\Class 05.exe
 C:\Users\Student\Desktop\Aptech-sem-03\C# Learning\Class 05\obj\Debug\Class 05.pdb
 C:\Users\Student\Desktop\Aptech-sem-03\C# Learning\Class 05\obj\Debug\Class_05.Home.resources
+C:\Users\Student\Desktop\Aptech-sem-03\C# Learning\Class 09\bin\Debug\Class 05.exe.config
+C:\Users\Student\Desktop\Aptech-sem-03\C# Learning\Class 09\bin\Debug\Class 05.exe
+C:\Users\Student\Desktop\Aptech-sem-03\C# Learning\Class 09\bin\Debug\Class 05.pdb
+C:\Users\Student\Desktop\Aptech-sem-03\C# Learning\Class 09\obj\Debug\Class 05.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Aptech-sem-03\C# Learning\Class 09\obj\Debug\Class_05.Form1.resources
+C:\Users\Student\Desktop\Aptech-sem-03\C# Learning\Class 09\obj\Debug\Class_05.Home.resources
+C:\Users\Student\Desktop\Aptech-sem-03\C# Learning\Class 09\obj\Debug\Class_05.Properties.Resources.resources
+C:\Users\Student\Desktop\Aptech-sem-03\C# Learning\Class 09\obj\Debug\Class 05.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Aptech-sem-03\C# Learning\Class 09\obj\Debug\Class 05.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Aptech-sem-03\C# Learning\Class 09\obj\Debug\Class 05.exe
+C:\Users\Student\Desktop\Aptech-sem-03\C# Learning\Class 09\obj\Debug\Class 05.pdb
