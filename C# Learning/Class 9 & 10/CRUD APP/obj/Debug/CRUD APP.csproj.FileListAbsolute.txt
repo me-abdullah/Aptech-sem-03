@@ -1,0 +1,10 @@
+C:\Users\Abdullah\Desktop\CRUD APP\bin\Debug\CRUD APP.exe.config
+C:\Users\Abdullah\Desktop\CRUD APP\bin\Debug\CRUD APP.exe
+C:\Users\Abdullah\Desktop\CRUD APP\bin\Debug\CRUD APP.pdb
+C:\Users\Abdullah\Desktop\CRUD APP\obj\Debug\CRUD APP.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\CRUD APP\obj\Debug\CRUD_APP.Form1.resources
+C:\Users\Abdullah\Desktop\CRUD APP\obj\Debug\CRUD_APP.Properties.Resources.resources
+C:\Users\Abdullah\Desktop\CRUD APP\obj\Debug\CRUD APP.csproj.GenerateResource.cache
+C:\Users\Abdullah\Desktop\CRUD APP\obj\Debug\CRUD APP.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\CRUD APP\obj\Debug\CRUD APP.exe
+C:\Users\Abdullah\Desktop\CRUD APP\obj\Debug\CRUD APP.pdb
