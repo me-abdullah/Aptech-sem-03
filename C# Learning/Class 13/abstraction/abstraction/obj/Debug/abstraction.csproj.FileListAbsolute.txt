@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\Aptech-sem-03\C# Learning\Class 13\abstraction\abstraction\bin\Debug\abstraction.exe.config
+C:\Users\Student\Desktop\Aptech-sem-03\C# Learning\Class 13\abstraction\abstraction\bin\Debug\abstraction.exe
+C:\Users\Student\Desktop\Aptech-sem-03\C# Learning\Class 13\abstraction\abstraction\bin\Debug\abstraction.pdb
+C:\Users\Student\Desktop\Aptech-sem-03\C# Learning\Class 13\abstraction\abstraction\obj\Debug\abstraction.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Aptech-sem-03\C# Learning\Class 13\abstraction\abstraction\obj\Debug\abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Aptech-sem-03\C# Learning\Class 13\abstraction\abstraction\obj\Debug\abstraction.exe
+C:\Users\Student\Desktop\Aptech-sem-03\C# Learning\Class 13\abstraction\abstraction\obj\Debug\abstraction.pdb
