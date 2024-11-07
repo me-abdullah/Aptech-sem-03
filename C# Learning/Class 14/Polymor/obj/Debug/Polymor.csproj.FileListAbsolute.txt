@@ -1,0 +1,7 @@
+D:\Aptech\Aptech-sem-03\C# Learning\Class 14\Polymor\bin\Debug\Polymor.exe.config
+D:\Aptech\Aptech-sem-03\C# Learning\Class 14\Polymor\bin\Debug\Polymor.exe
+D:\Aptech\Aptech-sem-03\C# Learning\Class 14\Polymor\bin\Debug\Polymor.pdb
+D:\Aptech\Aptech-sem-03\C# Learning\Class 14\Polymor\obj\Debug\Polymor.csproj.AssemblyReference.cache
+D:\Aptech\Aptech-sem-03\C# Learning\Class 14\Polymor\obj\Debug\Polymor.csproj.CoreCompileInputs.cache
+D:\Aptech\Aptech-sem-03\C# Learning\Class 14\Polymor\obj\Debug\Polymor.exe
+D:\Aptech\Aptech-sem-03\C# Learning\Class 14\Polymor\obj\Debug\Polymor.pdb
