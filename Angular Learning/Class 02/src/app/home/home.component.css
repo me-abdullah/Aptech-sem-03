@@ -1,0 +1,6 @@
+.carousel-inner img{
+    min-width: 300px;
+    max-width: 100%;
+    max-height: 600px;
+    min-height: 250px;
+}
