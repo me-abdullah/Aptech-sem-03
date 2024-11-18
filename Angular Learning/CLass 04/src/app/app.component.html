@@ -1,0 +1,13 @@
+<p>Interpolation Binding: {{ message }}</p>
+
+<!-- Property Binding -->
+<input type="text" [value]="message" />
+
+<!-- Event Binding -->
+<input type="text" #txtdata (keyup)="onchange(txtdata.value)" />
+<button (click)="updateMessage()">Click to Update Message</button>
+
+<!-- Two-Way Data Binding -->
+<input type="text" [(ngModel)]="message" />
+<br />
+<p>Two-Way Data Binding: {{ message }}</p>
