@@ -1,0 +1,62 @@
+<!-- <div *ngIf="true">Hello World</div>
+
+<div *ngIf="isValid">Directives</div> -->
+
+<!-- @if(isLoggedIn){
+<b>User Loggedin</b>
+} -->
+<div class="flex flex-col">
+  <button (click)="login()" type="button" class="btn btn-primary">
+    Log In
+  </button>
+  <button (click)="logout()" type="button" class="btn btn-danger">
+    Log Out
+  </button>
+  <br />
+  <!-- @if(isLoggedIn){
+    <b>User Loggedin</b>
+    }
+    @else {
+      <b>User not Loggedin</b>
+    } -->
+
+      <!-- @if(age < 10){
+<b>Child</b>
+      }
+      @else if (age > 15) {
+        <b>Adult</b>
+      }
+      @else {
+        <b>Teenager</b>
+      } -->
+        @switch (namee) {
+          @case ('Usman') {
+            <b>Hello {{namee}}</b>
+          }
+          @case ('Hasan') {
+            <b>Hello {{namee}}</b>
+          }
+          @case ('Maaz') {
+            <b>Hello {{namee}}</b>
+          }
+          @case ('Abdullah') {
+            <b>Hello {{namee}}</b>
+          }
+          @default {
+            <b>Hello World</b>
+          }
+        }
+        <br>
+        <!-- {{employes}} -->
+
+        @for (emp of employes; track emp.id) {
+          <ul>
+            <li>
+              ID: {{emp.id}} | Name: {{emp.name}}
+            </li>
+          </ul>
+        }
+        @empty {
+          <b>No data fount</b>
+        }
+</div>
