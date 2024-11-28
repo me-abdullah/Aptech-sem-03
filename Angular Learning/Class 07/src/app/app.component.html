@@ -1,0 +1,49 @@
+<form class="p-4 shadow-lg rounded bg-light" [formGroup]="studentForm">
+  <h3 class="mb-4 text-center text-primary">Login Form</h3>
+
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Email address</label>
+    <input
+      type="email"
+      formControlName="email"
+      required
+      class="form-control"
+      id="exampleInputEmail1"
+      aria-describedby="emailHelp"
+      placeholder="Enter your email"
+    />
+    <div class="text-danger">
+      @if (studentForm.controls['email'].touched && studentForm.controls['email'].errors?.['required']) {
+      <span>This is Required</span>
+      } @else if (studentForm.controls['email'].touched && studentForm.controls['email'].errors?.['minlength']) {
+      <span>Min char 4 Required</span>
+      }
+    </div>
+  </div>
+
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">Password</label>
+    <input
+      type="password"
+      formControlName="password"
+      required
+      class="form-control"
+      id="exampleInputPassword1"
+      placeholder="Enter your password"
+    />
+    <div class="text-danger">
+      @if (studentForm.controls['password'].touched && studentForm.controls['password'].errors?.['required']) {
+      <span>This is Required</span>
+      } @else if (studentForm.controls['password'].touched && studentForm.controls['password'].errors?.['minlength']) {
+      <span>Min char 4 Required</span>
+      }
+    </div>
+  </div>
+
+  <button type="submit" class="btn btn-primary w-100" [disabled]="studentForm.invalid" (click)="onSubmit()">
+    Submit
+  </button>
+</form>
+<div class="container text-scuccess">
+  {{ formValue | json }}
+</div>
