@@ -1,0 +1,13 @@
+<div class="row">
+  <div class="col-2">
+    <button type="button" class="btn btn-success" (click)="getAllUsers()">Get Users</button>
+  </div>
+
+  <div class="col-3">
+    <select name="" id="" class="form-select">
+      @for (item of userList; track $index) {
+        <option value="">{{item.name}}</option>
+      }
+    </select>
+  </div>
+</div>
