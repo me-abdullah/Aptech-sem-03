@@ -1,0 +1,33 @@
+<form>
+    <div class="mb-3">
+      <label for="exampleInputEmail1" class="form-label">Department Name</label>
+      <input type="text" [(ngModel)]="deptObj.departmentName" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="mb-3">
+      <label for="exampleInputPassword1" class="form-label">Department Logo</label>
+      <input type="text" [(ngModel)]="deptObj.departmentLogo" class="form-control" id="exampleInputPassword1">
+    </div>
+    <button type="reset" class="btn btn-primary">Reset</button>
+    <button type="submit" class="btn btn-primary" (click)="onSave()">Submit</button>
+  </form>
+
+  <table class="table table-bordered">
+<thead>
+  <tr>
+    <th>Sr No</th>
+    <th>Name</th>
+    <th>City</th>
+    <th>Status</th>
+  </tr>
+</thead>
+<tbody>
+  @for (item of deptList; track $index) {
+    <tr>
+      <td>{{$index+1}}</td>
+      <td>{{item.departmentName}}</td>
+      <td>{{item.departmentLogo}}</td>
+      <td></td>
+    </tr>
+  }
+</tbody>
+  </table>
