@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                   <-- {content, actionName,controllerName} --></-->
+                    <li>@Html.ActionLink("Home", "Home", "Company")</li>
+                    <li>@Html.ActionLink("About", "About", "Company")</li>
+                    <li>@Html.ActionLink("Services", "Services", "Company")</li>
+                    <li>@Html.ActionLink("Gallery", "Gallery", "Company")</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Company")</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <!-- Footer Section -->
+        <footer class="bg-dark text-white text-center py-3">
+            <div class="container">
+                <p>&copy; 2024 MyApp. All rights reserved.</p>
+                <p>
+                    <a href="#" class="text-white text-decoration-none">Privacy Policy</a> | <a href="#"
+                                                                                                class="text-white text-decoration-none">Terms of Service</a>
+                </p>
+            </div>
+        </footer>
+    </div>
+
+</body>
+</html>
