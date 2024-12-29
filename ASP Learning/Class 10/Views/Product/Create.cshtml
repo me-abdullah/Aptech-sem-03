@@ -1,0 +1,20 @@
+﻿@model Class_10.Models.Product
+
+<h2>Create Product</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div>
+        @Html.LabelFor(model => model.Name)
+        @Html.TextBoxFor(model => model.Name)
+    </div>
+
+    <div>
+        @Html.LabelFor(model => model.Price)
+        @Html.TextBoxFor(model => model.Price)
+    </div>
+
+    <button type="submit">Save</button>
+}
